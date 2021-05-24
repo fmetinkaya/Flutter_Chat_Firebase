@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "611894027435",
+    "project_id": "erkekoder",
+    "storage_bucket": "erkekoder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611894027435:android:b8f0257a05d5df115e03ee",
+        "android_client_info": {
+          "package_name": "com.example.flutterdenemechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611894027435-s696ono2vtl372cpmpcpurjjs4a3p0v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAil-KHDdrALoz32FnLzI2Ctmd-GUvi4hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611894027435-s696ono2vtl372cpmpcpurjjs4a3p0v7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "611894027435-poflv8m1e2pi70mp62bu2lrr64r4j6f0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterdenemechat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
